@@ -1,6 +1,8 @@
 # Kontagion
 A multi-level video game inspired by the 2011 film, Contagion.
 
+
+
 # Description
 ### Objective 
 * Eliminate all of the bacterias as they escape from the holes into the Petri dish  
@@ -45,8 +47,9 @@ A multi-level video game inspired by the 2011 film, Contagion.
 * Designed the functionality of power ups, sound effects, and keyboard inputs to control player movements and shooting abilities
 * Developed an algorithm for the special bacteria to follow the player by actively calculating the direction toward the player
 
-# Getting Started
 
+
+# Getting Started
 ### Prerequisites
 * **macOS:** Need to have XQuartz and freeGLUT installed to run the program
   * **Install [XQuartz](https://www.xquartz.org):**
@@ -75,14 +78,12 @@ A multi-level video game inspired by the 2011 film, Contagion.
 ### Game Screen
 <img src="https://imgur.com/q5k8ILa.png" width="50%" height="50%">
 
-### Disinfectant Spray Screen
-<img src="https://imgur.com/nEb4Y7u.png" width="50%" height="50%">
-
 ### Lost Life Screen
 <img src="https://imgur.com/bWO2dr8.png" width="50%" height="50%">
 
 ### Game Over Screen
 <img src="https://imgur.com/Bn4LWFN.png" width="50%" height="50%"> 
+
 
 # Acknowledgements
 * The files Actor.h, Actor.cpp, StudentWorld.h, and StudentWorld.cpp were made by me
